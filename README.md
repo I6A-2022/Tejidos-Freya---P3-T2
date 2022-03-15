@@ -1,2 +1,6 @@
 # Tejidos-Freya---P3-T2
 Avance del sistema. Tejidos Freya.
+INTEGRANTES DEL EQUIPO:
+- KATIA ANGÉLICA MARTINEZ ARRAZOLA
+- LUIS ÁNGEL
+- ROBERTO KEVIN BENÍTEZ PEÑA
