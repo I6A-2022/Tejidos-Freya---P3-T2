@@ -22,8 +22,8 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [<img src="https://github.com/kaustav202.png?size=115" width="115"><br><sub>@kaustav202</sub>](https://github.com/kaustav202) | [<img  src="https://github.com/ambarja.png?size=115" width="115"><br><sub>@ambarja</sub>](https://github.com/ambarja) | [<img  src="https://github.com/rajadavidh.png?size=115" width="115"><br><sub>@rajadavidh</sub>](https://github.com/rajadavidh) | 
 | :---: |:---: | :---: |
 
-**Important:** Every month the Contributors list will be updated by observing their contributions.
+**Importante:** Es importante mencionar que este proyecto se debe al profesor de la materia programación en ambiente cliente-servidor.
 
-| Author | Collaborator |
-| :---: | :---: | 
-| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) <br><br> [![](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/alexandresanlim) |  [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br>  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
+| Collaborator |
+| :---: | 
+| [<img src="https://avatars.githubusercontent.com/u/16070294?v=4" width=115><br><sub>@dakedroid</sub>](https://github.com/dakedroid) <br><br> |
