@@ -1,23 +1,29 @@
 # Tejidos-Freya---P3-T2
-Para realizar pedidos o comprar en nuestra tienda visita la siguiente página: http://127.0.0.1:5500/public/index.html
-
+------------------------------------------------------Para realizar pedidos o comprar en nuestra tienda-------------------------------------------------
 
 ![2022-03-22w](https://user-images.githubusercontent.com/98972071/159529012-e26f6a84-9f57-4494-b46e-4656c7fc171b.png)
 
 
-## 📱 Contact [🔝](http://127.0.0.1:5500/public/index.html)
+## [📱](https://www.facebook.com/profile.php?id=100014355579201) CONTACTOS DEL GRUPO DE TRABAJO [🔝](https://freya-tejidos.web.app/)
 
-Badge | URL
+VISITA NUESTRA PÁGINA | TEJIDOS FREYA
 ------------ | -------------
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `l19920146@voaxaca.tecnm.mx`
-<img src="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white" /> | `https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white`
-<img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425" /> | `https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425`
-<img src="https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white" /> | `https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white`
-<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /> | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white`
-<img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" /> | `https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white`
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `CONTACTO: robertojev2001@gmail.com`
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> | `https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white`
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
-<img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" /> | `https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white`
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | `CONTÁCTANOS CON EL NÚMERO CELULAR: 9513422825`
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://web.telegram.org/z/  - PERFIL: 9513422825`
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | `CONTACTA A NUESTRO GRUPO DE TRABAJO: 951 - 342 - 2825`
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | `NUESTRO INSTAGRAM:`https://www.instagram.com/tejidosfreya_oax/`
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | `PERFIL: https://www.facebook.com/profile.php?id=100014355579201`
+
+## Creators [🔝](#welcome-badges-4-readmemd-profile)
+
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). Here is a list of the top 3 contributors of last February 2022, excluding [Authors](https://github.com/alexandresanlim) & [Collaborator](https://github.com/mrhrifat).  We do respect & love our all contributors.
+
+| [<img src="https://github.com/kaustav202.png?size=115" width="115"><br><sub>@kaustav202</sub>](https://github.com/kaustav202) | [<img  src="https://github.com/ambarja.png?size=115" width="115"><br><sub>@ambarja</sub>](https://github.com/ambarja) | [<img  src="https://github.com/rajadavidh.png?size=115" width="115"><br><sub>@rajadavidh</sub>](https://github.com/rajadavidh) | 
+| :---: |:---: | :---: |
+
+**Important:** Every month the Contributors list will be updated by observing their contributions.
+
+| Author | Collaborator |
+| :---: | :---: | 
+| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) <br><br> [![](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/alexandresanlim) |  [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br>  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
