@@ -908,5 +908,15 @@ div.poster img {
     }
 }
 
+footer{
+
+    background-color:#ce687c;
+    color:white;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+}
+
 /* items end */
 
